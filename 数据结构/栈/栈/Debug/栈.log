@@ -1,0 +1,4 @@
+﻿  stack.cpp
+d:\git\algorithm\数据结构\栈\栈\stack.h(55): warning C4715: “GetTop”: 不是所有的控件路径都返回值
+  栈.vcxproj -> D:\GIT\Algorithm\数据结构\栈\Debug\栈.exe
+  栈.vcxproj -> D:\GIT\Algorithm\数据结构\栈\Debug\栈.pdb (Full PDB)

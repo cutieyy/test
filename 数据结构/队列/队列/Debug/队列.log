@@ -1,0 +1,5 @@
+﻿  LinkQueue.cpp
+d:\git\algorithm\数据结构\队列\队列\linkqueue.h(76): warning C4715: “GetHead”: 不是所有的控件路径都返回值
+d:\git\algorithm\数据结构\队列\队列\sqqueue.h(55): warning C4715: “GetHead”: 不是所有的控件路径都返回值
+  队列.vcxproj -> D:\GIT\Algorithm\数据结构\队列\Debug\队列.exe
+  队列.vcxproj -> D:\GIT\Algorithm\数据结构\队列\Debug\队列.pdb (Full PDB)

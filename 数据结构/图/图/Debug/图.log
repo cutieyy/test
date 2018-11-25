@@ -1,0 +1,5 @@
+﻿  graph.cpp
+d:\git\algorithm\数据结构\图\图\graph_adjlist.h(8): warning C4005: “INFINITY”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: 参见“INFINITY”的前一个定义
+  图.vcxproj -> D:\GIT\Algorithm\数据结构\图\Debug\图.exe
+  图.vcxproj -> D:\GIT\Algorithm\数据结构\图\Debug\图.pdb (Full PDB)
